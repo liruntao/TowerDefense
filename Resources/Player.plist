@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>bullettype</key>
+        <array>
+            <integer>1</integer>
+            <integer>2</integer>
+            <integer>3</integer>
+        </array>
+        <key>herotype</key>
+        <array>
+            <integer>1</integer>
+            <integer>2</integer>
+            <integer>3</integer>
+        </array>
+        <key>star</key>
+        <dict>
+            <key>1</key>
+            <integer>3</integer>
+            <key>2</key>
+            <integer>3</integer>
+            <key>3</key>
+            <integer>3</integer>
+        </dict>
+        <key>throwTollgate</key>
+        <integer>4</integer>
+    </dict>
+</plist>

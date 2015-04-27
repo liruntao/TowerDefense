@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="16" height="9" tilewidth="96" tileheight="96" nextobjectid="10">
+ <tileset firstgid="1" name="tiles" tilewidth="96" tileheight="96">
+  <image source="tiles.png" trans="ff00ff" width="768" height="576"/>
+  <tile id="19">
+   <properties>
+    <property name="Wall" value="1"/>
+    <property name="kkk" value=""/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="canTouch" value="1"/>
+   </properties>
+  </tile>
+  <tile id="30">
+   <properties>
+    <property name="metalDamage" value="500"/>
+   </properties>
+  </tile>
+  <tile id="38">
+   <properties>
+    <property name="" value=""/>
+   </properties>
+  </tile>
+  <tile id="40">
+   <properties>
+    <property name="Wall" value="Wall"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="49" name="meta_tiles" tilewidth="96" tileheight="96">
+  <image source="原图/meta_tiles.png" width="189" height="96"/>
+  <tile id="0">
+   <properties>
+    <property name="Collectable" value="2"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="bg" width="16" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjYGBgUKAAMyDRxAB0/SJkYGSAzicVkKIfn3vIcTup9pPiJlx2KzBgjz8YmxiArB8A24gG/Q==
+  </data>
+ </layer>
+ <objectgroup name="bodyresource"/>
+ <layer name="Meta" width="16" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF5ADDgXbAIAEANMgAMg==
+  </data>
+ </layer>
+ <layer name="properties" width="16" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIxnIU6gfAAoAACA=
+  </data>
+ </layer>
+</map>
