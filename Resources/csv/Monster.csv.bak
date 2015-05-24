@@ -1,7 +1,0 @@
-ID,Name,Level,Type,ModelID,Atk,AtkSpeed,AtkRange,Defense,HP,MoveSpeed,MetalAtk,MetalDefense,WoodlAtk,WoodDefense,WaterAtk,WaterDefense,FireAtk,FireDefense,EarthAtk,EarthDefense
-怪物ID,名字,等级,类别,模型ID,攻击，攻击速度，攻击范围，防御,血量,移动速度(1像素/毫秒),金属性攻击,金属性防御,木属性攻击,木属性防御,水属性攻击,水属性防御,火属性攻击,火属性防御,土属性攻击,土属性防御
-1000,Demo小怪,1,1,1,1,10,10,10,100,50
-1001,我很强的,2,1,2,10,10,10,5,200,48
-1002,小Boss,10,1,1,10,10,10,10,600,40
-1003,怪你妹,22,1,2,10,10,10,30,3000,45
-1004,大Boss,25,1,1,10,10,10,40,10000,70
